@@ -12,8 +12,7 @@
 //             <div className='w-2/4 flex mt-5  shadow-2xl'>
 //               <div className=' relative mb-20'key={Education1.id}>
 //                 <h2>{Education1.college}</h2>
-//                 <div className='flex-wrap absolute ml-3'>
-//                   <ul className=''>
+//                 <div className='flex-wrap absolute ml-3'>//                   <ul className=''>
 //                     <li className=''>
 //                       <h2>:</h2>
 //                       <p>:</p>
